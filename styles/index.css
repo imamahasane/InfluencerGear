@@ -1,7 +1,38 @@
-/* Import Font */
-
 * {
-  padding: 0px;
-  margin: 0px;
-  box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+body {
+	/* max-width: 1200px; */
+	/* margin: o auto; */
+	font-family: 'Poppins', sans-serif;
+	margin: 87px 120px 0 120px;
+}
+
+/* Heading Section Styles */
+nav {
+	display: flex;
+	justify-content: space-between;
+}
+.nav-title {
+	font-weight: 700;
+	font-size: 24px;
+	color: #3a3a3a;
+}
+nav ul {
+	display: flex;
+	align-items: center;
+}
+nav li {
+	list-style: none;
+	margin-right: 34px;
+}
+nav a {
+	text-decoration: none;
+	color: #3a3a3a;
+}
+nav a:hover {
+	cursor: pointer;
+	color: lightcoral;
 }
