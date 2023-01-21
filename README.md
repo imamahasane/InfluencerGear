@@ -1,6 +1,6 @@
 # Influencer Gear
 
-Responsive Landing Page using vanilla CSS. 
+Responsive Landing Page using vanilla CSS. It is a fully responsive design based on mobile and desktop versions.
 
 live: https://imamahasane.github.io/InfluencerGear/
 
