@@ -170,11 +170,45 @@ main {
 .SeeMore {
 	text-align: right;
 	margin-top: 50px;
-
 }
 .SeeMore a {
-  text-decoration: none;
-  color: rgba(224, 44, 109, 0.87);
+	text-decoration: none;
+	color: rgba(224, 44, 109, 0.87);
 	font-weight: 700;
 	font-size: 16px;
+}
+
+/* Featured Products Style */
+.featured {
+	display: flex;
+	align-items: center;
+}
+.featured__img {
+	margin-right: 96px;
+}
+.featured__img img {
+	width: 404px;
+	border-radius: 7px;
+}
+.featured__info {
+}
+.featured__info-title {
+	font-weight: 700;
+	font-size: 38px;
+	color: #0a0826;
+	margin-bottom: 16px;
+}
+.featured__info-desc {
+	font-weight: 700;
+	font-size: 16px;
+	color: #6c6c6c;
+	margin-bottom: 16px;
+}
+.featured__info-btn {
+	font-weight: 700;
+	font-size: 16px;
+	background-color: #e02c6d;
+	color: #ffffff;
+	border: none;
+	padding: 10px 25px;
 }
