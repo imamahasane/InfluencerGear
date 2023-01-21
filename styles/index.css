@@ -239,8 +239,8 @@ footer {
 	text-decoration: none;
 	color: #ffffff;
 }
-.copyright__author a:hover{
-  color: gold;
+.copyright__author a:hover {
+	color: gold;
 }
 .copyright__info {
 	margin-top: 3px;
@@ -258,4 +258,7 @@ footer {
 .logo a {
 	color: #ffffff;
 	font-size: 17px;
+}
+.logo a:hover {
+	color: gold;
 }
