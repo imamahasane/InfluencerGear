@@ -77,3 +77,22 @@ width: 475px;
   position: absolute;
   width: 440px;
 }
+
+/* Main Section Start */
+main {
+  margin: 0 165px;
+}
+
+/* brand Section */
+.brand {
+margin-top: 69px;
+}
+.brand ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.brand li{
+  list-style: none;
+  margin-right: 61px;
+}
